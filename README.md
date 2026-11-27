@@ -1,10 +1,10 @@
 # 一键息屏
 
-Windows 桌面小工具，双击 `一键息屏.exe` 后等待约 700 毫秒并关闭显示器。移动鼠标或按键可重新点亮屏幕。
+Windows 桌面小工具，双击 `ScreenOff.exe` 后等待约 700 毫秒并关闭显示器。移动鼠标或按键可重新点亮屏幕。
 
 ## 文件
 
-- `一键息屏.exe`：可直接运行的 Windows 程序
+- `ScreenOff.exe`：可直接运行的 Windows 程序
 - `ScreenOff.cs`：C# 源码
 - `ScreenOff.ico`：程序图标
 
